@@ -1,0 +1,11 @@
+Python 3.x → Language used
+
+Jupyter Notebook → Environment you run the code in
+
+pandas → For handling tables / voting data
+
+scikit-learn → For AI anomaly detection
+
+Isolation Forest → Specific ML algorithm you used for detecting spikes
+
+hashlib + datetime → For Blockchain simulation
