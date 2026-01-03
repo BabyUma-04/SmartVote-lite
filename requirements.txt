@@ -9,3 +9,5 @@ scikit-learn → For AI anomaly detection
 Isolation Forest → Specific ML algorithm you used for detecting spikes
 
 hashlib + datetime → For Blockchain simulation
+
+Matplotlib -> graphical spikes visualization 

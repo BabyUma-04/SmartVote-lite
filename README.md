@@ -17,6 +17,6 @@ Requirements
  - Python 3.x
  - Pandas
  - Scikit-learn
-
+ - Matplotlib
  Author
 Baby Uma Bharathi R
