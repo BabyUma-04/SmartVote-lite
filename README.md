@@ -1,22 +1,59 @@
 # SmartVote-Lite
+# SmartVote-Lite
 
-Description
- SmartVote-Lite is a Blockchain-Based Voting System with AI Anomaly Detection.  
- This project simulates real election votes and detects suspicious spikes in voting patterns.
+**Blockchain-Based Voting System with AI Anomaly Detection**  
+Final Year Project – CSE (Anna University)
 
-Features
-- Blockchain-based vote storage
-- AI detects suspicious voting spikes using Isolation Forest
-- Demo-ready for final year project
+---
 
-How to Run
- 1. Open `SmartVote_Lite.ipynb` in Jupyter Notebook
- 2. Run all cells from top to bottom
- 3. Observe the output tables for suspicious spikes
-Requirements
- - Python 3.x
- - Pandas
- - Scikit-learn
- - Matplotlib
- Author
-Baby Uma Bharathi R
+## Objective
+To design and implement a secure blockchain-based voting system and integrate an AI-based anomaly detection model to identify suspicious voting behavior such as vote duplication and sudden vote spikes.
+
+---
+
+## Features
+- Blockchain-based vote storage for transparency and security
+- AI-based anomaly detection using Isolation Forest to detect suspicious spikes
+- Pattern-based pre-generated voting simulation
+- Real-time live vote input for demonstration
+- Graphical representation of suspicious spikes by region
+- Full blockchain display for auditability
+
+---
+
+## Technologies Used
+- Python 3.x
+- Jupyter Notebook
+- Blockchain (SHA-256 hashing)
+- Machine Learning: Isolation Forest
+- Pandas (Data Processing)
+- Matplotlib (Graphical Representation)
+
+---
+
+## How to Run
+1. Clone or download the repository
+2. Open `SmartVote_Lite_Final.ipynb` in Jupyter Notebook
+3. Run all cells in order from top to bottom:
+   - Phase 1: Pre-generated votes with anomaly detection
+   - Phase 2: Live vote input demonstration
+4. Observe tables and graphical outputs for suspicious votes
+5. Optional: Display full blockchain for verification
+
+---
+
+## Files in the Repository
+- `SmartVote_Lite_Final.ipynb` → Complete Jupyter Notebook with code
+- `requirements.txt` → Required Python libraries
+- `README.md` → Project description and instructions
+
+---
+
+
+## Author
+**Baby Uma Bharathi R**  
+CSE – Anna University  
+Email: babybaby2208@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/baby-uma-bharathi-r-a7074b37a](https://www.linkedin.com/in/baby-uma-bharathi-r-a7074b37a)
+
+
